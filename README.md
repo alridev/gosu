@@ -1,1 +1,1 @@
-# gosu
+@gosu_info
