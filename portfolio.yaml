@@ -1,0 +1,8 @@
+info:
+  - name: Gosu
+    description: Market, Proxy, Mailer and other
+    preview: https://i.imgur.com/0jmLO89.jpeg
+    tag: Top
+options:
+  - index: 1
+    hide: false
